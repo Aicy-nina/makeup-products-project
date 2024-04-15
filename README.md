@@ -1,10 +1,10 @@
-# makeup-products-project
+# makeup products display
 This project fetches makeup products data from the Makeup API and displays them in a web page. Users can view products from the Maybelline brand, see product details, like products, and add comments.
 
 ## Installation
 For the the installation first,
-Clone the repository;
-git clone <>
+git clone using the SSH key.
+Clone the repository;<git@github.com:Aicy-nina/makeup-products-project.git>
 then open the vs code in your terminal and create the index.js, index.html and the style.css file.
 Open the index.html file in your web browser.
 
