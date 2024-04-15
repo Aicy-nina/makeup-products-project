@@ -1,41 +1,38 @@
-/* Style for product container */
+
 .product {
     border: 1px solid #ccc;
     padding: 10px;
     margin-bottom: 20px;
 }
 
-/* Style for product image */
+
 .product-image {
     width: 100px;
     height: 100px;
     margin-bottom: 10px;
 }
-
-/* Style for brand */
 .brand {
     font-weight: bold;
 }
 
-/* Style for price */
+
 .price {
     color: green;
 }
 
-/* Style for description */
+
 .description {
     margin-bottom: 10px;
 }
 
-/* Style for product name */
 .product-name {
     font-weight: bold;
     color: #333;
 }
 
-/* Style for like button */
+
 .like-button {
-    background-color: red; /* Changed to red */
+    background-color: red; 
     color: white;
     border: none;
     padding: 5px 10px;
